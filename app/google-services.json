@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446296832839",
+    "project_id": "demologin-34839",
+    "storage_bucket": "demologin-34839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446296832839:android:b961785fe7b7dad2a7ea62",
+        "android_client_info": {
+          "package_name": "vn.poly.mob305.demologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbk-8qLH5NMSRk_qh36PMfMh8FjFVKyjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
